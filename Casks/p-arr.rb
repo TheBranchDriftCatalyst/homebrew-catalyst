@@ -1,6 +1,6 @@
 cask "p-arr" do
-  version "0.6.4"
-  sha256 "ee0a5da4fc20609fb6ae9bd7bdb34b1bddd5e334a51f48501549a43b3e3a0e9a"
+  version "0.6.5"
+  sha256 "6609e9b7b42429f90cb040327e62036a2f378c3b7498c02808779db356fc7a19"
 
   url "https://github.com/TheBranchDriftCatalyst/pr-widget/releases/download/v#{version}/P-Arr-#{version}.zip"
   name "P-Arr"
